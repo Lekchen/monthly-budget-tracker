@@ -219,3 +219,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 budget_data.json
+monthly_budget_report.xlsx
