@@ -160,6 +160,12 @@ Then record expenses such as:
 
 The program calculates spending and remaining budgets and can export the results to Excel.
 
+## Sample Excel Report
+
+The application generates an Excel budget summary with spending calculations and visualizations.
+
+![Budget Summary](screenshots/budget_summary.png)
+
 ## Future Improvements
 
 Possible future improvements include:
